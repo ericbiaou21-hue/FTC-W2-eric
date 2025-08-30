@@ -461,7 +461,7 @@ span {
       margin: 0;
     }
 
-    ul li {
+    .imageic {
       display: flex;
       align-items: flex-start;
       margin-bottom: 15px;
@@ -479,4 +479,8 @@ span {
 
     .imwithspend {
       width: 500px;
+    }
+
+    .successh2 {
+      width: 600px;
     }
